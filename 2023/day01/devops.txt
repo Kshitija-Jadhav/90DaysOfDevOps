@@ -1,8 +1,22 @@
-DevOps is a methodology which Involves practices to bridge the gap of Dev and ops team by using Open source automation build tools.
-These are the articles which I refered to,
+What is DevOps?
+DevOps is a methodology that combines software development and operations to streamline and automate the software delivery process.
+DevOps promotes collaboration between the Development and Operations teams to deploy code to production faster in an automated & repeatable way.
+The goal of DevOps: To increase the speed and efficiency of software delivery while improving the quality and reliability of software resulting in seamless software delivery.
 
+Automation:
+The use of technology to perform repetitive tasks with minimal human intervention results in efficiency.
 
-formal defination   :   "DevOps is the union of people, process, and products to enable continuous delivery of value to our end users."
+Scaling:
+Process of increasing size, capacity, and performance to accommodate greater workload or demand. Ensures whether the system can handle an increased number of users or any other kind of load without affecting the performance.
 
-The main goal of DEVOPS is to shorten cycle time. Start with the release pipeline. How long does it take to deploy a change of one line of code or configuration.
+Infrastructure:
+refers to the underlying resources and components necessary to support the operation of software applications, data storage, networking, and other IT resources. For instance, if there is an online banking system. The infrastructure will include hardware (servers for hosting the website), software (OS, DBMS), networking (routers, switches), data center, cloud and security. But now cloud has made it easier as the infrastructure can be managed from anywhere.
+
+Why is DevOps important?
+
+> Enables faster and continuous software delivery
+> Improves collaboration between teams
+> Enhances software quality and reliability
+> Support scalability and flexible infrastructure
+> Least or no downtime
 
