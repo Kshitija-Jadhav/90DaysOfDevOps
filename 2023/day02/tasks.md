@@ -1,6 +1,6 @@
 Day 2 Task: Basics linux command
 
-Task: What is the linux command to
+Task: What is the linux command to (done)
 
 1. Check your present working directory.
 2. List all the files or directories including hidden files.
